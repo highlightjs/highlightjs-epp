@@ -1,0 +1,25 @@
+{
+    "name": "highlightjs-epp",
+    "version": "0.0.1",
+    "description": "Embedded Puppet templating language",
+    "module": "epp.js",
+    "files": [
+        "epp.js"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/highlightjs/highlightjs-epp.git"
+    },
+    "keywords": [
+        "epp",
+      	"template",
+        "highlight.js",
+        "highlightjs",
+        "syntax-highlight",
+        "syntax"
+    ],
+    "license": "BSD 3-clause",
+    "dependencies": {
+        "highlight.js": "^11.9.0"
+    }
+}
